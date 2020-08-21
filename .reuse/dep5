@@ -9,6 +9,18 @@ Files: src/modules/locale/images/timezone*.png
 License: GPL-3.0-or-later
 Copyright: 2014 Teo Mrnjavac <teo@kde.org>
 
+# GitHub issue templates are not part of the source
+#
+Files: .github/ISSUE_TEMPLATE/*
+License: CC0-1.0
+Copyright: no
+
+# .desktop files and template change only with translation
+#
+FILES: calamares.desktop*
+License: CC0-1.0
+Copyright: no
+
 # Transifex translations derive from the source, and have no
 # embedded copyright information.
 #
