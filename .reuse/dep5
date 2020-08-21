@@ -2,6 +2,12 @@ Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: Calamares
 Source: https://github.com/calamares/calamares.git
 
+# QRC Files are basically build artifacts
+#
+FILES: src/modules/*/*.qrc
+License: CC0-1.0
+Copyright: no
+
 # Images in the locale module are a bit unclear; they were added
 # by Teo in 2014 but I suspect they came from somewhere else.
 #
