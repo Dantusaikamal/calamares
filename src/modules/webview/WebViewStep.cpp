@@ -18,6 +18,7 @@
  *   along with Calamares. If not, see <http://www.gnu.org/licenses/>.
  */
 
+#include "WebViewConfig.h"
 #include "WebViewStep.h"
 
 #include <QVariant>
