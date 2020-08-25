@@ -29,6 +29,13 @@ Files: .github/ISSUE_TEMPLATE/*
 License: CC0-1.0
 Copyright: no
 
+# Packaging information
+#
+Files: data/FreeBSD/distinfo data/FreeBSD/pkg-descr data/FreeBSD/pkg-plist
+License: CC0-1.0
+Copyright: no
+
+
 ### TRANSLATIONS
 #
 # .desktop files and template change only with translation
