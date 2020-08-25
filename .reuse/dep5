@@ -44,6 +44,11 @@ Files: lang/*.ts
 License: GPL-3.0-or-later
 Copyright: 2020 Calamares authors and translators
 
+# Translations of branding slideshow are the same
+Files: src/branding/default/lang/*.ts
+License: GPL-3.0-or-later
+Copyright: 2020 Calamares authors and translators
+
 # Python translation files have some copyright information, but
 # it's generally very sketchy.
 #
