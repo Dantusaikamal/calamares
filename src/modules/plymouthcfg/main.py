@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# === This file is part of Calamares - <https://github.com/calamares> ===
+# === This file is part of Calamares - <https://calamares.io> ===
 #
 #   SPDX-FileCopyrightText: 2016 Artoo <artoo@manjaro.org>
 #   SPDX-FileCopyrightText: 2017 Alf Gaida <agaida@siduction.org>

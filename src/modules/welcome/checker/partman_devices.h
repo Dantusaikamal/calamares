@@ -1,4 +1,4 @@
-/* === This file is part of Calamares - <https://github.com/calamares> ===
+/* === This file is part of Calamares - <https://calamares.io> ===
  *
  *   SPDX-FileCopyrightText: 2014 Teo Mrnjavac <teo@kde.org>
  *   SPDX-License-Identifier: GPL-3.0-or-later
