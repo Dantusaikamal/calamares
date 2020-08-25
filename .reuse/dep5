@@ -35,6 +35,15 @@ Files: data/FreeBSD/distinfo data/FreeBSD/pkg-descr data/FreeBSD/pkg-plist
 License: CC0-1.0
 Copyright: no
 
+# Example data for timezones, which is copied out of zoneinfo,
+# which has this notice:
+#
+# This file is in the public domain, so clarified as of
+# 2009-05-17 by Arthur David Olson.
+#
+Files: data/example-root/usr/share/zoneinfo/Zulu data/example-root/usr/share/zoneinfo/UTC data/example-root/usr/share/zoneinfo/America/New_York
+License: CC0-1.0
+Copyright: no
 
 ### TRANSLATIONS
 #
